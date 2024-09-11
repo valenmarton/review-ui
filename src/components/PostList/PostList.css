@@ -1,0 +1,14 @@
+.post-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #fafafa;
+}
+
+.infinite-scroll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
